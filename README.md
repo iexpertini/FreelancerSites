@@ -5,7 +5,10 @@ Discover a curated list of community-recommended resources for finding remote fr
 # The Remote Freelancer
 List of community-curated resources to find topical remote freelance &amp; contract work for software developers, web designers, and more!
 
-See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation on how popular the site is, with #1 being the most viewed site on the internet in the US. Up until 2022 Alexa was used, Similar web will be used for future ratings. [Graph of changes over time](https://public.tableau.com/profile/andrew.chase#!/vizhome/theremotefreelancer/AlexaRankOverTime?publish=yes)
+Check out the reasons behind our platform's success in the [Why](#why) section and learn how you can contribute in the [Contributing](#contributing) section. 
+
+Ranking: Our site's popularity is estimated based on rankings, with #1 indicating the most visited site on the internet in the US. We previously used Alexa until 2022, and now SimilarWeb is utilized for future ratings. Keep track of our popularity over time with the Graph of changes over time.
+
 
 | **Clients**                                                                              |                |            |                                           |
 |------------------------------------------------------------------------------------------|----------------|------------|-------------------------------------------|
